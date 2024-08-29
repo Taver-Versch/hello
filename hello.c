@@ -11,5 +11,6 @@
 
 int main (int argc, char **argv) {
     printf("Taver Versch\n");
+    printf("My Major is CompSci!\n");
 
 }
